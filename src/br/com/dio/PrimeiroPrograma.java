@@ -17,3 +17,8 @@ public class PrimeiroPrograma {
         System.out.println("Hello World!\n" + (a+b));*/
     }
 }
+
+class Livro {
+    private String nome;
+
+}
